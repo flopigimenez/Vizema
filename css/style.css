@@ -40,7 +40,7 @@ header {
 .nav-enlace {
     display: inline-block;
     color: #F1F5F4;
-    padding-right: 1rem;
+    padding-right: 0.5rem;
     text-decoration: none;
 } 
 
@@ -153,8 +153,8 @@ nav {
 
 @media (max-width: 600px){
     .logo {
-        margin-left: 2rem;
-        width: 5rem;
+        margin-left: 1.5rem;
+        width: 6rem;
     }
 
     /* .nav-button {
