@@ -142,6 +142,10 @@ nav {
         width: 30%;
     }
 
+    .line {
+        font-size: 15px;
+    }
+
     .footer {
         padding: 1rem 5rem;
     }
@@ -183,6 +187,10 @@ nav {
 
     .columna {
         width: 45%;
+    }
+
+    .line {
+        font-size: 14px;
     }
 
     .footer {
