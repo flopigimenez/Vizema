@@ -72,7 +72,7 @@ nav {
 }
 
 .imagenJeans {
-    width: 100%;
+    width: 110%;
     margin-bottom: 0.5rem;
 }
 
@@ -142,6 +142,10 @@ nav {
         width: 30%;
     }
 
+    .h6 {
+        font-size: 14px;
+    }
+
     .line {
         font-size: 15px;
     }
@@ -187,6 +191,10 @@ nav {
 
     .columna {
         width: 45%;
+    }
+
+    .h6 {
+        font-size: 16px;
     }
 
     .line {
